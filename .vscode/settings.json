@@ -1,0 +1,6 @@
+{
+    "discord.enabled": true,
+    "editor.fontFamily": "\"Monocraft\"",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18
+}
