@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTU1MzE1Mzk5NTM2MTYyNDA2NA.G2pZY4.mIqAA02Y7LnjYgmdVbg0Tv6Zpac0o0WnHcLxuQ",
+    token: "",
     athkar: `./athkar.json`,
     prefix: "!",
     color: "#ffffff",
